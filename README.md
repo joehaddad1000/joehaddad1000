@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am learning HTML & CSS & JS<br>🎥 I love to make videos
+💻 I'm learning HTML & CSS & JS<br>🎥 I love to make videos
 
 
 # 💻 Tech Stack:
