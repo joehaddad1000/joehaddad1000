@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a student who loves to code in HTML, CSS, JS, C and C#. Don't ask me why I need so many languages, I just like to have fun. I'm here to create an awesome "About Me" bio that will make you want to be my friend. Or at least follow me. Or maybe just give me a star. Please?
+I’m a student who loves to code and create cool things!
 
 
 # 💻 Tech Stack:
